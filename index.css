@@ -1,0 +1,17 @@
+.nav {
+	background: #1e1e1e;
+	overflow: hidden;
+}
+
+.nav a {
+	float: left;
+	color: #fdfdfd;
+	text-align: center;
+	text-decoration: none;
+	transition: all 0.2s;
+}
+
+.nav a:hover {
+	background-color: #fdfdfd;
+	color: black;
+}
