@@ -14,7 +14,7 @@ html, body {
 	color: #fdfdfd;
 	text-align: center;
 	text-decoration: none;
-	margin-right: 4px;
+	padding: 1em;
 	transition: all 0.2s;
 }
 
